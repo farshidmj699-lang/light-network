@@ -1,2 +1,1 @@
-# light-network
-Description light-network
+# Light Network

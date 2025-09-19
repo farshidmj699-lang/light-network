@@ -1,0 +1,1 @@
+const networkData = {nodes:[], edges:[]};
